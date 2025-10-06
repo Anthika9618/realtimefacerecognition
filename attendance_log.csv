@@ -1,0 +1,33 @@
+Date,Time,Name,Employee_ID,Position,Status,Camera_ID
+
+2025-05-15,13:29:34,Anthika Puttharak,'0263,Programmer,Check-in
+2025-05-15,13:38:57,Anthika Puttharak,'0263,Programmer,Check-in
+2025-05-15,13:39:00,Anthika Puttharak,'0263,Programmer,Check-out
+2025-05-15,14:52:58,Anthika Puttharak,'0263,Programmer,Check-in
+2025-05-15,14:53:01,Anthika Puttharak,'0263,Programmer,Check-out
+2025-05-21,17:53:20,Chaibundit Thongmeekhwan,'0225,Programmer,Check-in
+2025-05-21,17:53:23,Chaibundit Thongmeekhwan,'0225,Programmer,Check-out
+2025-05-21,17:54:38,Boonchai Iammetta,'0195,R&D Manager,Check-in
+2025-05-21,17:54:44,Boonchai Iammetta,'0195,R&D Manager,Check-out
+2025-05-26,10:21:46,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-05-26,10:21:46,Anthika Puttharak,'0263,Programmer,Check-in,2
+2025-05-26,10:21:49,Anthika Puttharak,'0263,Programmer,Check-out,1
+2025-05-26,10:21:49,Anthika Puttharak,'0263,Programmer,Check-out,2
+2025-05-26,10:24:08,Anthika Puttharak,'0263,Programmer,Check-in,2
+2025-05-26,10:24:10,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-05-26,10:24:11,Anthika Puttharak,'0263,Programmer,Check-out,2
+2025-05-26,10:24:13,Anthika Puttharak,'0263,Programmer,Check-out,1
+2025-05-26,10:28:18,Anthika Puttharak,'0263,Programmer,Check-in,2
+2025-05-26,10:28:19,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-05-26,10:28:21,Anthika Puttharak,'0263,Programmer,Check-out,2
+2025-05-26,10:28:22,Anthika Puttharak,'0263,Programmer,Check-out,1
+2025-05-26,13:15:08,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-05-26,13:15:09,Anthika Puttharak,'0263,Programmer,Check-in,2
+2025-05-26,13:15:11,Anthika Puttharak,'0263,Programmer,Check-out,1
+2025-05-26,13:15:13,Anthika Puttharak,'0263,Programmer,Check-out,2
+2025-05-26,13:17:30,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-05-26,13:17:32,Anthika Puttharak,'0263,Programmer,Check-in,2
+2025-05-26,13:17:35,Anthika Puttharak,'0263,Programmer,Check-out,1
+2025-05-26,13:17:35,Anthika Puttharak,'0263,Programmer,Check-out,2
+2025-06-17,16:19:50,Anthika Puttharak,'0263,Programmer,Check-in,1
+2025-06-17,16:20:12,Anthika Puttharak,'0263,Programmer,Check-out,1
